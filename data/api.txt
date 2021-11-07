@@ -1,0 +1,5 @@
+Dortmund:
+    - https://api.fazilettakvimi.com/api/v3/gunluk/index/259
+
+Default:
+    - https://api.fazilettakvimi.com/api/v3/gunluk/index
