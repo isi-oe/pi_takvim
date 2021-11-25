@@ -1,20 +1,10 @@
 {
-    "today" : {
-        "imsak" : "#",
-        "sabah" : "#",
-        "gunes" : "#",
-        "ogle" : "#",
-        "ikindi" : "#",
-        "aksam" : "#",
-        "yatsi" : "#"
-    },
-    "tomorrow" : {
-        "imsak" : "#",
-        "sabah" : "#",
-        "gunes" : "#",
-        "ogle" : "#",
-        "ikindi" : "#",
-        "aksam" : "#",
-        "yatsi" : "#"
-    }
+    "imsak" : 1,
+    "israk" : 0,
+    "sabah" : 1,
+    "gunes" : 1,
+    "ogle" : 1,
+    "ikindi" : 1,
+    "aksam" : 1,
+    "yatsi" : 1
 }
