@@ -1,5 +1,5 @@
 # pi_takvim
-Simple web based application to show prayer time.
+Currently working on version 2!
 
 Code is structured:
 + `getData.py` used to fetch data with a HTTP request. It fills the `data.json`.
