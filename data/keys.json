@@ -1,10 +1,10 @@
 {
-    "imsak" : 1,
+    "imsak" : 0,
     "israk" : 0,
     "sabah" : 1,
-    "gunes" : 1,
-    "ogle" : 1,
-    "ikindi" : 1,
+    "gunes" : 0,
+    "ogle" : 0,
+    "ikindi" : 0,
     "aksam" : 1,
-    "yatsi" : 1
+    "yatsi" : 0
 }
