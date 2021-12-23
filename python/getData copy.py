@@ -30,10 +30,10 @@ for key, value in json_data.items():
         x = x.replace(x[:11], '')
         x = x.replace(x[5:], '')
         if(j < i-1):    
-            file.write("\t\t\"" + key + "\" : \"" + x + "\",\n")
+            file.write("\t\t\"" + x + "\",\n")
             j += 1
         else:
-            file.write("\t\t\"" + key + "\" : \"" + x + "\"\n")
+            file.write("\t\t\"" + x + "\"\n")
 file.write("\t],\n")
 
 j = 0
@@ -44,10 +44,10 @@ for key, value in json_data.items():
         x = x.replace(x[:11], '')
         x = x.replace(x[5:], '')
         if(j < i-1):    
-            file.write("\t\t\"" + key + "\" : \"" + x + "\",\n")
+            file.write("\t\t\"" + x + "\",\n")
             j += 1
         else:
-            file.write("\t\t\"" + key + "\" : \"" + x + "\"\n")
+            file.write("\t\t\"" + x + "\"\n")
 file.write("\t],\n")
 
 j = 0
@@ -58,10 +58,10 @@ for key, value in json_data.items():
         x = x.replace(x[:11], '')
         x = x.replace(x[5:], '')
         if(j < i-1):    
-            file.write("\t\t\"" + key + "\" : \"" + x + "\",\n")
+            file.write("\t\t\"" + x + "\",\n")
             j += 1
         else:
-            file.write("\t\t\"" + key + "\" : \"" + x + "\"\n")
+            file.write("\t\t\"" + x + "\"\n")
 file.write("\t]\n")
 file.write("}")
 
